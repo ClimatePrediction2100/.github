@@ -2,6 +2,10 @@
 
 Welcome to the Global Climate Prediction Model (GCPM) project! This project is dedicated to developing a cost-efficient neural network-based approach for long-term climate prediction up to the year 2100. Traditional climate prediction models are expensive and often focus on short-term forecasts. Our approach leverages modern machine learning techniques to create an affordable and reliable model for extended climate forecasting.
 
+## Poster
+[Poster.pdf](https://github.com/user-attachments/files/16648331/default.pdf)
+
+
 # Project Overview
 
 
