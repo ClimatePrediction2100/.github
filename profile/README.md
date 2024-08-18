@@ -2,9 +2,6 @@
 
 Welcome to the Global Climate Prediction Model (GCPM) project! This project is dedicated to developing a cost-efficient neural network-based approach for long-term climate prediction up to the year 2100. Traditional climate prediction models are expensive and often focus on short-term forecasts. Our approach leverages modern machine learning techniques to create an affordable and reliable model for extended climate forecasting.
 
-## Poster
-[Poster.pdf](https://github.com/user-attachments/files/16648331/default.pdf)
-
 
 # Project Overview
 
@@ -43,3 +40,12 @@ Welcome to the Global Climate Prediction Model (GCPM) project! This project is d
 •	Validation: Comparable results with the IPCC’s 6th Assessment Report, indicating the model’s efficacy.
 
 •	Open Source and Community Engagement: The project’s code and results are open-source, and visualization services are available to enhance public awareness of climate change.
+
+
+
+
+# Poster
+![poster](https://github.com/user-attachments/assets/aad44ef7-09a4-4839-9229-841847472421)
+
+[Poster.pdf](https://github.com/user-attachments/files/16648331/default.pdf)
+
